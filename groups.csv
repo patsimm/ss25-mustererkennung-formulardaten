@@ -1,0 +1,74 @@
+group_index,group,field,field_index
+0,Verstorbenendaten,Titel(Name),0
+0,Verstorbenendaten,Vorname,1
+0,Verstorbenendaten,Geburtsname,2
+0,Verstorbenendaten,Religion,3
+0,Verstorbenendaten,Straße / Hausnummer,4
+0,Verstorbenendaten,PLZ / Wohnort,5
+0,Verstorbenendaten,Staatsangehörigkeit,6
+0,Verstorbenendaten,geboren am,7
+0,Verstorbenendaten,gestorben am,8
+0,Verstorbenendaten,Sterbeort Adresse,9
+0,Verstorbenendaten,Sterbeort,10
+0,Verstorbenendaten,Todesursache,11
+0,Verstorbenendaten,Beruf,12
+0,Verstorbenendaten,Familienstand 1,13
+0,Verstorbenendaten,Familienstand 2,14
+0,Verstorbenendaten,Testament,15
+0,Verstorbenendaten,Antrag Vorschusszahlung,16
+0,Verstorbenendaten,Rentennummer 1,17
+0,Verstorbenendaten,Rentennummer 2,18
+1,Ehepartner,Name,0
+1,Ehepartner,Vorname,1
+1,Ehepartner,Geburtsname,2
+1,Ehepartner,Geburt,3
+1,Ehepartner,Heirat,4
+1,Ehepartner,Scheidung,5
+1,Ehepartner,gestorben,6
+1,Ehepartner,Kinder Anzahl,7
+2,Auftraggeberdaten,Titel,0
+2,Auftraggeberdaten,Familienname,1
+2,Auftraggeberdaten,Vorname,2
+2,Auftraggeberdaten,"Straße, Hausnummer",3
+2,Auftraggeberdaten,"PLZ, Ort",4
+2,Auftraggeberdaten,Verwandtschaftsgrad,5
+2,Auftraggeberdaten,Geburtsdatum,6
+2,Auftraggeberdaten,Telefon,7
+2,Auftraggeberdaten,Handy,8
+2,Auftraggeberdaten,E-Mail,9
+2,Auftraggeberdaten,Name Inhaber der E-Mail,10
+3,Bestattung,Art,0
+3,Bestattung,Ort,1
+3,Bestattung,Friedhof,2
+3,Bestattung,Kreuzträger / Organist,3
+3,Bestattung,Lage,4
+3,Bestattung,Grabstellen-Nr.,5
+3,Bestattung,Grabnutzungsberechtigt,6
+3,Bestattung,Grab Info 1,7
+3,Bestattung,Grab Info 2,8
+3,Bestattung,Ort Abschiedname,9
+3,Bestattung,am / um,10
+4,Termine,Aussegnung 1,0
+4,Termine,Aussegnung 2,1
+4,Termine,Rosenkranz 1,2
+4,Termine,Rosenkranz 2,3
+4,Termine,Gottesdienst 1,4
+4,Termine,Gottesdienst 2,5
+4,Termine,Trauerfeier 1,6
+4,Termine,Trauerfeier 2,7
+4,Termine,Beerdigung 1,8
+4,Termine,Beerdigung 2,9
+4,Termine,Urnenbeisetzung 1,10
+4,Termine,Urnenbeisetzung 2,11
+4,Termine,Pfarrei / Redner,12
+4,Termine,Veröffentlichung,13
+5,Zahlungsdaten,Rechnung per,0
+5,Zahlungsdaten,Zahlung per,1
+5,Zahlungsdaten,Guthaben an,2
+5,Zahlungsdaten,IBAN/Bank,3
+5,Zahlungsdaten,Auszahlung,4
+6,Erhaltene Dokumente,Zeile 1,0
+6,Erhaltene Dokumente,Zeile 2,1
+6,Erhaltene Dokumente,Zeile 3,2
+6,Erhaltene Dokumente,Zeile 4,3
+6,Erhaltene Dokumente,Zeile 5,4
