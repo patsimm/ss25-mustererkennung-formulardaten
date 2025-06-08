@@ -18,83 +18,983 @@ train_0016.png,am Einheiskreis
 train_0017.png,am Einheiskreis
 train_0018.png,am Einheiskreis
 train_0019.png,am Einheiskreis
-train_0020.png,am Einheiskreis
-train_0021.png,am Einheiskreis
-train_0022.png,am Einheiskreis
-train_0023.png,am Einheiskreis
-train_0024.png,am Einheiskreis
-train_0025.png,am Einheiskreis
-train_0026.png,am Einheiskreis
-train_0027.png,am Einheiskreis
-train_0028.png,am Einheiskreis
-train_0029.png,am Einheiskreis
-train_0030.png,am Einheiskreis
-train_0031.png,am Einheiskreis
-train_0032.png,am Einheiskreis
-train_0033.png,am Einheiskreis
-train_0034.png,am Einheiskreis
-train_0035.png,am Einheiskreis
-train_0036.png,am Einheiskreis
-train_0037.png,am Einheiskreis
-train_0038.png,am Einheiskreis
-train_0039.png,am Einheiskreis
-train_0040.png,am Einheiskreis
-train_0041.png,am Einheiskreis
-train_0042.png,am Einheiskreis
-train_0043.png,am Einheiskreis
-train_0044.png,am Einheiskreis
-train_0045.png,am Einheiskreis
-train_0046.png,am Einheiskreis
-train_0047.png,am Einheiskreis
-train_0048.png,am Einheiskreis
-train_0049.png,am Einheiskreis
-train_0050.png,am Einheiskreis
-train_0051.png,am Einheiskreis
-train_0052.png,am Einheiskreis
-train_0053.png,am Einheiskreis
-train_0054.png,am Einheiskreis
-train_0055.png,am Einheiskreis
-train_0056.png,am Einheiskreis
-train_0057.png,am Einheiskreis
-train_0058.png,am Einheiskreis
-train_0059.png,am Einheiskreis
-train_0060.png,am Einheiskreis
-train_0061.png,am Einheiskreis
-train_0062.png,am Einheiskreis
-train_0063.png,am Einheiskreis
-train_0064.png,am Einheiskreis
-train_0065.png,am Einheiskreis
-train_0066.png,am Einheiskreis
-train_0067.png,am Einheiskreis
-train_0068.png,am Einheiskreis
-train_0069.png,am Einheiskreis
-train_0070.png,am Einheiskreis
-train_0071.png,am Einheiskreis
-train_0072.png,am Einheiskreis
-train_0073.png,am Einheiskreis
-train_0074.png,am Einheiskreis
-train_0075.png,am Einheiskreis
-train_0076.png,am Einheiskreis
-train_0077.png,am Einheiskreis
-train_0078.png,am Einheiskreis
-train_0079.png,am Einheiskreis
-train_0080.png,am Einheiskreis
-train_0081.png,am Einheiskreis
-train_0082.png,am Einheiskreis
-train_0083.png,am Einheiskreis
-train_0084.png,am Einheiskreis
-train_0085.png,am Einheiskreis
-train_0086.png,am Einheiskreis
-train_0087.png,am Einheiskreis
-train_0088.png,am Einheiskreis
-train_0089.png,am Einheiskreis
-train_0090.png,am Einheiskreis
-train_0091.png,am Einheiskreis
-train_0092.png,am Einheiskreis
-train_0093.png,am Einheiskreis
-train_0094.png,am Einheiskreis
-train_0095.png,am Einheiskreis
-train_0096.png,am Einheiskreis
-train_0097.png,am Einheiskreis
-train_0098.png,am Einheiskreis
-train_0099.png,am Einheiskreis
+train_0020.png,Bildverarbeitung
+train_0021.png,Bildverarbeitung
+train_0022.png,Bildverarbeitung
+train_0023.png,Bildverarbeitung
+train_0024.png,Bildverarbeitung
+train_0025.png,Bildverarbeitung
+train_0026.png,Bildverarbeitung
+train_0027.png,Bildverarbeitung
+train_0028.png,Bildverarbeitung
+train_0029.png,Bildverarbeitung
+train_0030.png,Jede Sektion wird mit
+train_0031.png,Jede Sektion wird mit
+train_0032.png,Jede Sektion wird mit
+train_0033.png,Jede Sektion wird mit
+train_0034.png,Jede Sektion wird mit
+train_0035.png,Jede Sektion wird mit
+train_0036.png,Jede Sektion wird mit
+train_0037.png,Jede Sektion wird mit
+train_0038.png,Jede Sektion wird mit
+train_0039.png,Jede Sektion wird mit
+train_0040.png,Signal (analog)
+train_0041.png,Signal (analog)
+train_0042.png,Signal (analog)
+train_0043.png,Signal (analog)
+train_0044.png,Signal (analog)
+train_0045.png,Signal (analog)
+train_0046.png,Signal (analog)
+train_0047.png,Signal (analog)
+train_0048.png,Signal (analog)
+train_0049.png,Signal (analog)
+train_0050.png,vor dem Komma
+train_0051.png,vor dem Komma
+train_0052.png,vor dem Komma
+train_0053.png,vor dem Komma
+train_0054.png,vor dem Komma
+train_0055.png,vor dem Komma
+train_0056.png,vor dem Komma
+train_0057.png,vor dem Komma
+train_0058.png,vor dem Komma
+train_0059.png,vor dem Komma
+train_0060.png,stückweise glatte
+train_0061.png,stückweise glatte
+train_0062.png,stückweise glatte
+train_0063.png,stückweise glatte
+train_0064.png,stückweise glatte
+train_0065.png,stückweise glatte
+train_0066.png,stückweise glatte
+train_0067.png,stückweise glatte
+train_0068.png,stückweise glatte
+train_0069.png,stückweise glatte
+train_0070.png,2.Ableitung
+train_0071.png,2.Ableitung
+train_0072.png,2.Ableitung
+train_0073.png,2.Ableitung
+train_0074.png,2.Ableitung
+train_0075.png,2.Ableitung
+train_0076.png,2.Ableitung
+train_0077.png,2.Ableitung
+train_0078.png,2.Ableitung
+train_0079.png,2.Ableitung
+train_0080.png,Näherungsformel
+train_0081.png,Näherungsformel
+train_0082.png,Näherungsformel
+train_0083.png,Näherungsformel
+train_0084.png,Näherungsformel
+train_0085.png,Näherungsformel
+train_0086.png,Näherungsformel
+train_0087.png,Näherungsformel
+train_0088.png,Näherungsformel
+train_0089.png,Näherungsformel
+train_0090.png,eine Vorschrift
+train_0091.png,eine Vorschrift
+train_0092.png,eine Vorschrift
+train_0093.png,eine Vorschrift
+train_0094.png,eine Vorschrift
+train_0095.png,eine Vorschrift
+train_0096.png,eine Vorschrift
+train_0097.png,eine Vorschrift
+train_0098.png,eine Vorschrift
+train_0099.png,eine Vorschrift
+train_0100.png,Kaskadierung
+train_0101.png,Kaskadierung
+train_0102.png,Kaskadierung
+train_0103.png,Kaskadierung
+train_0104.png,Kaskadierung
+train_0105.png,Kaskadierung
+train_0106.png,Kaskadierung
+train_0107.png,Kaskadierung
+train_0108.png,Kaskadierung
+train_0109.png,Kaskadierung
+train_0110.png,Spezifikation
+train_0111.png,Spezifikation
+train_0112.png,Spezifikation
+train_0113.png,Spezifikation
+train_0114.png,Spezifikation
+train_0115.png,Spezifikation
+train_0116.png,Spezifikation
+train_0117.png,Spezifikation
+train_0118.png,Spezifikation
+train_0119.png,Spezifikation
+train_0120.png,ist die modifizierte
+train_0121.png,ist die modifizierte
+train_0122.png,ist die modifizierte
+train_0123.png,ist die modifizierte
+train_0124.png,ist die modifizierte
+train_0125.png,ist die modifizierte
+train_0126.png,ist die modifizierte
+train_0127.png,ist die modifizierte
+train_0128.png,ist die modifizierte
+train_0129.png,ist die modifizierte
+train_0130.png,Partialbruchzerlegen
+train_0131.png,Partialbruchzerlegen
+train_0132.png,Partialbruchzerlegen
+train_0133.png,Partialbruchzerlegen
+train_0134.png,Partialbruchzerlegen
+train_0135.png,Partialbruchzerlegen
+train_0136.png,Partialbruchzerlegen
+train_0137.png,Partialbruchzerlegen
+train_0138.png,Partialbruchzerlegen
+train_0139.png,Partialbruchzerlegen
+train_0140.png,Form
+train_0141.png,Form
+train_0142.png,Form
+train_0143.png,Form
+train_0144.png,Form
+train_0145.png,Form
+train_0146.png,Form
+train_0147.png,Form
+train_0148.png,Form
+train_0149.png,Form
+train_0150.png,Entwurf
+train_0151.png,Entwurf
+train_0152.png,Entwurf
+train_0153.png,Entwurf
+train_0154.png,Entwurf
+train_0155.png,Entwurf
+train_0156.png,Entwurf
+train_0157.png,Entwurf
+train_0158.png,Entwurf
+train_0159.png,Entwurf
+train_0160.png,Signal gilt
+train_0161.png,Signal gilt
+train_0162.png,Signal gilt
+train_0163.png,Signal gilt
+train_0164.png,Signal gilt
+train_0165.png,Signal gilt
+train_0166.png,Signal gilt
+train_0167.png,Signal gilt
+train_0168.png,Signal gilt
+train_0169.png,Signal gilt
+train_0170.png,der Nenner
+train_0171.png,der Nenner
+train_0172.png,der Nenner
+train_0173.png,der Nenner
+train_0174.png,der Nenner
+train_0175.png,der Nenner
+train_0176.png,der Nenner
+train_0177.png,der Nenner
+train_0178.png,der Nenner
+train_0179.png,der Nenner
+train_0180.png,Fenstertechnik
+train_0181.png,Fenstertechnik
+train_0182.png,Fenstertechnik
+train_0183.png,Fenstertechnik
+train_0184.png,Fenstertechnik
+train_0185.png,Fenstertechnik
+train_0186.png,Fenstertechnik
+train_0187.png,Fenstertechnik
+train_0188.png,Fenstertechnik
+train_0189.png,Fenstertechnik
+train_0190.png,lineare und
+train_0191.png,lineare und
+train_0192.png,lineare und
+train_0193.png,lineare und
+train_0194.png,lineare und
+train_0195.png,lineare und
+train_0196.png,lineare und
+train_0197.png,lineare und
+train_0198.png,lineare und
+train_0199.png,lineare und
+train_0200.png,geordneten Paaren
+train_0201.png,geordneten Paaren
+train_0202.png,geordneten Paaren
+train_0203.png,geordneten Paaren
+train_0204.png,geordneten Paaren
+train_0205.png,geordneten Paaren
+train_0206.png,geordneten Paaren
+train_0207.png,geordneten Paaren
+train_0208.png,geordneten Paaren
+train_0209.png,geordneten Paaren
+train_0210.png,Hochpass
+train_0211.png,Hochpass
+train_0212.png,Hochpass
+train_0213.png,Hochpass
+train_0214.png,Hochpass
+train_0215.png,Hochpass
+train_0216.png,Hochpass
+train_0217.png,Hochpass
+train_0218.png,Hochpass
+train_0219.png,Hochpass
+train_0220.png,0-Ordnung
+train_0221.png,0-Ordnung
+train_0222.png,0-Ordnung
+train_0223.png,0-Ordnung
+train_0224.png,0-Ordnung
+train_0225.png,0-Ordnung
+train_0226.png,0-Ordnung
+train_0227.png,0-Ordnung
+train_0228.png,0-Ordnung
+train_0229.png,0-Ordnung
+train_0230.png,Simulation
+train_0231.png,Simulation
+train_0232.png,Simulation
+train_0233.png,Simulation
+train_0234.png,Simulation
+train_0235.png,Simulation
+train_0236.png,Simulation
+train_0237.png,Simulation
+train_0238.png,Simulation
+train_0239.png,Simulation
+train_0240.png,Achsensymmetrie
+train_0241.png,Achsensymmetrie
+train_0242.png,Achsensymmetrie
+train_0243.png,Achsensymmetrie
+train_0244.png,Achsensymmetrie
+train_0245.png,Achsensymmetrie
+train_0246.png,Achsensymmetrie
+train_0247.png,Achsensymmetrie
+train_0248.png,Achsensymmetrie
+train_0249.png,Achsensymmetrie
+train_0250.png,Seminar 26.01.2023
+train_0251.png,Seminar 26.01.2023
+train_0252.png,Seminar 26.01.2023
+train_0253.png,Seminar 26.01.2023
+train_0254.png,Seminar 26.01.2023
+train_0255.png,Seminar 26.01.2023
+train_0256.png,Seminar 26.01.2023
+train_0257.png,Seminar 26.01.2023
+train_0258.png,Seminar 26.01.2023
+train_0259.png,Seminar 26.01.2023
+train_0260.png,aufgrund von
+train_0261.png,aufgrund von
+train_0262.png,aufgrund von
+train_0263.png,aufgrund von
+train_0264.png,aufgrund von
+train_0265.png,aufgrund von
+train_0266.png,aufgrund von
+train_0267.png,aufgrund von
+train_0268.png,aufgrund von
+train_0269.png,aufgrund von
+train_0270.png,eventuell
+train_0271.png,eventuell
+train_0272.png,eventuell
+train_0273.png,eventuell
+train_0274.png,eventuell
+train_0275.png,eventuell
+train_0276.png,eventuell
+train_0277.png,eventuell
+train_0278.png,eventuell
+train_0279.png,eventuell
+train_0280.png,? nein
+train_0281.png,? nein
+train_0282.png,? nein
+train_0283.png,? nein
+train_0284.png,? nein
+train_0285.png,? nein
+train_0286.png,? nein
+train_0287.png,? nein
+train_0288.png,? nein
+train_0289.png,? nein
+train_0290.png,Verwendung der
+train_0291.png,Verwendung der
+train_0292.png,Verwendung der
+train_0293.png,Verwendung der
+train_0294.png,Verwendung der
+train_0295.png,Verwendung der
+train_0296.png,Verwendung der
+train_0297.png,Verwendung der
+train_0298.png,Verwendung der
+train_0299.png,Verwendung der
+train_0300.png,Pol- und Nullstellen
+train_0301.png,Pol- und Nullstellen
+train_0302.png,Pol- und Nullstellen
+train_0303.png,Pol- und Nullstellen
+train_0304.png,Pol- und Nullstellen
+train_0305.png,Pol- und Nullstellen
+train_0306.png,Pol- und Nullstellen
+train_0307.png,Pol- und Nullstellen
+train_0308.png,Pol- und Nullstellen
+train_0309.png,Pol- und Nullstellen
+train_0310.png,dass zu Instabilität
+train_0311.png,dass zu Instabilität
+train_0312.png,dass zu Instabilität
+train_0313.png,dass zu Instabilität
+train_0314.png,dass zu Instabilität
+train_0315.png,dass zu Instabilität
+train_0316.png,dass zu Instabilität
+train_0317.png,dass zu Instabilität
+train_0318.png,dass zu Instabilität
+train_0319.png,dass zu Instabilität
+train_0320.png,digitale Signale
+train_0321.png,digitale Signale
+train_0322.png,digitale Signale
+train_0323.png,digitale Signale
+train_0324.png,digitale Signale
+train_0325.png,digitale Signale
+train_0326.png,digitale Signale
+train_0327.png,digitale Signale
+train_0328.png,digitale Signale
+train_0329.png,digitale Signale
+train_0330.png,Einheitskreis
+train_0331.png,Einheitskreis
+train_0332.png,Einheitskreis
+train_0333.png,Einheitskreis
+train_0334.png,Einheitskreis
+train_0335.png,Einheitskreis
+train_0336.png,Einheitskreis
+train_0337.png,Einheitskreis
+train_0338.png,Einheitskreis
+train_0339.png,Einheitskreis
+train_0340.png,isolierte Singularität
+train_0341.png,isolierte Singularität
+train_0342.png,isolierte Singularität
+train_0343.png,isolierte Singularität
+train_0344.png,isolierte Singularität
+train_0345.png,isolierte Singularität
+train_0346.png,isolierte Singularität
+train_0347.png,isolierte Singularität
+train_0348.png,isolierte Singularität
+train_0349.png,isolierte Singularität
+train_0350.png,Kennen
+train_0351.png,Kennen
+train_0352.png,Kennen
+train_0353.png,Kennen
+train_0354.png,Kennen
+train_0355.png,Kennen
+train_0356.png,Kennen
+train_0357.png,Kennen
+train_0358.png,Kennen
+train_0359.png,Kennen
+train_0360.png,sind kann dass zu
+train_0361.png,sind kann dass zu
+train_0362.png,sind kann dass zu
+train_0363.png,sind kann dass zu
+train_0364.png,sind kann dass zu
+train_0365.png,sind kann dass zu
+train_0366.png,sind kann dass zu
+train_0367.png,sind kann dass zu
+train_0368.png,sind kann dass zu
+train_0369.png,sind kann dass zu
+train_0370.png,Voraussetzung
+train_0371.png,Voraussetzung
+train_0372.png,Voraussetzung
+train_0373.png,Voraussetzung
+train_0374.png,Voraussetzung
+train_0375.png,Voraussetzung
+train_0376.png,Voraussetzung
+train_0377.png,Voraussetzung
+train_0378.png,Voraussetzung
+train_0379.png,Voraussetzung
+train_0380.png,Minimale Dämpfung
+train_0381.png,Minimale Dämpfung
+train_0382.png,Minimale Dämpfung
+train_0383.png,Minimale Dämpfung
+train_0384.png,Minimale Dämpfung
+train_0385.png,Minimale Dämpfung
+train_0386.png,Minimale Dämpfung
+train_0387.png,Minimale Dämpfung
+train_0388.png,Minimale Dämpfung
+train_0389.png,Minimale Dämpfung
+train_0390.png,auf eine beschränkte
+train_0391.png,auf eine beschränkte
+train_0392.png,auf eine beschränkte
+train_0393.png,auf eine beschränkte
+train_0394.png,auf eine beschränkte
+train_0395.png,auf eine beschränkte
+train_0396.png,auf eine beschränkte
+train_0397.png,auf eine beschränkte
+train_0398.png,auf eine beschränkte
+train_0399.png,auf eine beschränkte
+train_0400.png,nicht sicher
+train_0401.png,nicht sicher
+train_0402.png,nicht sicher
+train_0403.png,nicht sicher
+train_0404.png,nicht sicher
+train_0405.png,nicht sicher
+train_0406.png,nicht sicher
+train_0407.png,nicht sicher
+train_0408.png,nicht sicher
+train_0409.png,nicht sicher
+train_0410.png,Parallele
+train_0411.png,Parallele
+train_0412.png,Parallele
+train_0413.png,Parallele
+train_0414.png,Parallele
+train_0415.png,Parallele
+train_0416.png,Parallele
+train_0417.png,Parallele
+train_0418.png,Parallele
+train_0419.png,Parallele
+train_0420.png,Berechnen der Impulsantwort
+train_0421.png,Berechnen der Impulsantwort
+train_0422.png,Berechnen der Impulsantwort
+train_0423.png,Berechnen der Impulsantwort
+train_0424.png,Berechnen der Impulsantwort
+train_0425.png,Berechnen der Impulsantwort
+train_0426.png,Berechnen der Impulsantwort
+train_0427.png,Berechnen der Impulsantwort
+train_0428.png,Berechnen der Impulsantwort
+train_0429.png,Berechnen der Impulsantwort
+train_0430.png,Bsp. Median
+train_0431.png,Bsp. Median
+train_0432.png,Bsp. Median
+train_0433.png,Bsp. Median
+train_0434.png,Bsp. Median
+train_0435.png,Bsp. Median
+train_0436.png,Bsp. Median
+train_0437.png,Bsp. Median
+train_0438.png,Bsp. Median
+train_0439.png,Bsp. Median
+train_0440.png,gewünschte
+train_0441.png,gewünschte
+train_0442.png,gewünschte
+train_0443.png,gewünschte
+train_0444.png,gewünschte
+train_0445.png,gewünschte
+train_0446.png,gewünschte
+train_0447.png,gewünschte
+train_0448.png,gewünschte
+train_0449.png,gewünschte
+train_0450.png,Tiefpassfilter
+train_0451.png,Tiefpassfilter
+train_0452.png,Tiefpassfilter
+train_0453.png,Tiefpassfilter
+train_0454.png,Tiefpassfilter
+train_0455.png,Tiefpassfilter
+train_0456.png,Tiefpassfilter
+train_0457.png,Tiefpassfilter
+train_0458.png,Tiefpassfilter
+train_0459.png,Tiefpassfilter
+train_0460.png,zeitinvariantes System
+train_0461.png,zeitinvariantes System
+train_0462.png,zeitinvariantes System
+train_0463.png,zeitinvariantes System
+train_0464.png,zeitinvariantes System
+train_0465.png,zeitinvariantes System
+train_0466.png,zeitinvariantes System
+train_0467.png,zeitinvariantes System
+train_0468.png,zeitinvariantes System
+train_0469.png,zeitinvariantes System
+train_0470.png,bei Addition
+train_0471.png,bei Addition
+train_0472.png,bei Addition
+train_0473.png,bei Addition
+train_0474.png,bei Addition
+train_0475.png,bei Addition
+train_0476.png,bei Addition
+train_0477.png,bei Addition
+train_0478.png,bei Addition
+train_0479.png,bei Addition
+train_0480.png,Schritt erklären
+train_0481.png,Schritt erklären
+train_0482.png,Schritt erklären
+train_0483.png,Schritt erklären
+train_0484.png,Schritt erklären
+train_0485.png,Schritt erklären
+train_0486.png,Schritt erklären
+train_0487.png,Schritt erklären
+train_0488.png,Schritt erklären
+train_0489.png,Schritt erklären
+train_0490.png,Rechteck
+train_0491.png,Rechteck
+train_0492.png,Rechteck
+train_0493.png,Rechteck
+train_0494.png,Rechteck
+train_0495.png,Rechteck
+train_0496.png,Rechteck
+train_0497.png,Rechteck
+train_0498.png,Rechteck
+train_0499.png,Rechteck
+train_0500.png,Realisierung
+train_0501.png,Realisierung
+train_0502.png,Realisierung
+train_0503.png,Realisierung
+train_0504.png,Realisierung
+train_0505.png,Realisierung
+train_0506.png,Realisierung
+train_0507.png,Realisierung
+train_0508.png,Realisierung
+train_0509.png,Realisierung
+train_0510.png,Rechteck-Fenster
+train_0511.png,Rechteck-Fenster
+train_0512.png,Rechteck-Fenster
+train_0513.png,Rechteck-Fenster
+train_0514.png,Rechteck-Fenster
+train_0515.png,Rechteck-Fenster
+train_0516.png,Rechteck-Fenster
+train_0517.png,Rechteck-Fenster
+train_0518.png,Rechteck-Fenster
+train_0519.png,Rechteck-Fenster
+train_0520.png,Mögliche Instabilitäten
+train_0521.png,Mögliche Instabilitäten
+train_0522.png,Mögliche Instabilitäten
+train_0523.png,Mögliche Instabilitäten
+train_0524.png,Mögliche Instabilitäten
+train_0525.png,Mögliche Instabilitäten
+train_0526.png,Mögliche Instabilitäten
+train_0527.png,Mögliche Instabilitäten
+train_0528.png,Mögliche Instabilitäten
+train_0529.png,Mögliche Instabilitäten
+train_0530.png,Phasenverschiebung
+train_0531.png,Phasenverschiebung
+train_0532.png,Phasenverschiebung
+train_0533.png,Phasenverschiebung
+train_0534.png,Phasenverschiebung
+train_0535.png,Phasenverschiebung
+train_0536.png,Phasenverschiebung
+train_0537.png,Phasenverschiebung
+train_0538.png,Phasenverschiebung
+train_0539.png,Phasenverschiebung
+train_0540.png,Differenzgleichungen
+train_0541.png,Differenzgleichungen
+train_0542.png,Differenzgleichungen
+train_0543.png,Differenzgleichungen
+train_0544.png,Differenzgleichungen
+train_0545.png,Differenzgleichungen
+train_0546.png,Differenzgleichungen
+train_0547.png,Differenzgleichungen
+train_0548.png,Differenzgleichungen
+train_0549.png,Differenzgleichungen
+train_0550.png,entweder die
+train_0551.png,entweder die
+train_0552.png,entweder die
+train_0553.png,entweder die
+train_0554.png,entweder die
+train_0555.png,entweder die
+train_0556.png,entweder die
+train_0557.png,entweder die
+train_0558.png,entweder die
+train_0559.png,entweder die
+train_0560.png,Achsensymmetrie
+train_0561.png,Achsensymmetrie
+train_0562.png,Achsensymmetrie
+train_0563.png,Achsensymmetrie
+train_0564.png,Achsensymmetrie
+train_0565.png,Achsensymmetrie
+train_0566.png,Achsensymmetrie
+train_0567.png,Achsensymmetrie
+train_0568.png,Achsensymmetrie
+train_0569.png,Achsensymmetrie
+train_0570.png,für ein
+train_0571.png,für ein
+train_0572.png,für ein
+train_0573.png,für ein
+train_0574.png,für ein
+train_0575.png,für ein
+train_0576.png,für ein
+train_0577.png,für ein
+train_0578.png,für ein
+train_0579.png,für ein
+train_0580.png,Auswahl eines Prototypen
+train_0581.png,Auswahl eines Prototypen
+train_0582.png,Auswahl eines Prototypen
+train_0583.png,Auswahl eines Prototypen
+train_0584.png,Auswahl eines Prototypen
+train_0585.png,Auswahl eines Prototypen
+train_0586.png,Auswahl eines Prototypen
+train_0587.png,Auswahl eines Prototypen
+train_0588.png,Auswahl eines Prototypen
+train_0589.png,Auswahl eines Prototypen
+train_0590.png,Realisierung
+train_0591.png,Realisierung
+train_0592.png,Realisierung
+train_0593.png,Realisierung
+train_0594.png,Realisierung
+train_0595.png,Realisierung
+train_0596.png,Realisierung
+train_0597.png,Realisierung
+train_0598.png,Realisierung
+train_0599.png,Realisierung
+train_0600.png,1. Ableitung
+train_0601.png,1. Ableitung
+train_0602.png,1. Ableitung
+train_0603.png,1. Ableitung
+train_0604.png,1. Ableitung
+train_0605.png,1. Ableitung
+train_0606.png,1. Ableitung
+train_0607.png,1. Ableitung
+train_0608.png,1. Ableitung
+train_0609.png,1. Ableitung
+train_0610.png,die Länge
+train_0611.png,die Länge
+train_0612.png,die Länge
+train_0613.png,die Länge
+train_0614.png,die Länge
+train_0615.png,die Länge
+train_0616.png,die Länge
+train_0617.png,die Länge
+train_0618.png,die Länge
+train_0619.png,die Länge
+train_0620.png,- parallel
+train_0621.png,- parallel
+train_0622.png,- parallel
+train_0623.png,- parallel
+train_0624.png,- parallel
+train_0625.png,- parallel
+train_0626.png,- parallel
+train_0627.png,- parallel
+train_0628.png,- parallel
+train_0629.png,- parallel
+train_0630.png,muss eine 2
+train_0631.png,muss eine 2
+train_0632.png,muss eine 2
+train_0633.png,muss eine 2
+train_0634.png,muss eine 2
+train_0635.png,muss eine 2
+train_0636.png,muss eine 2
+train_0637.png,muss eine 2
+train_0638.png,muss eine 2
+train_0639.png,muss eine 2
+train_0640.png,Potenz sein
+train_0641.png,Potenz sein
+train_0642.png,Potenz sein
+train_0643.png,Potenz sein
+train_0644.png,Potenz sein
+train_0645.png,Potenz sein
+train_0646.png,Potenz sein
+train_0647.png,Potenz sein
+train_0648.png,Potenz sein
+train_0649.png,Potenz sein
+train_0650.png,Rechenvorschrift
+train_0651.png,Rechenvorschrift
+train_0652.png,Rechenvorschrift
+train_0653.png,Rechenvorschrift
+train_0654.png,Rechenvorschrift
+train_0655.png,Rechenvorschrift
+train_0656.png,Rechenvorschrift
+train_0657.png,Rechenvorschrift
+train_0658.png,Rechenvorschrift
+train_0659.png,Rechenvorschrift
+train_0660.png,ablesbar an der Impulsantwort
+train_0661.png,ablesbar an der Impulsantwort
+train_0662.png,ablesbar an der Impulsantwort
+train_0663.png,ablesbar an der Impulsantwort
+train_0664.png,ablesbar an der Impulsantwort
+train_0665.png,ablesbar an der Impulsantwort
+train_0666.png,ablesbar an der Impulsantwort
+train_0667.png,ablesbar an der Impulsantwort
+train_0668.png,ablesbar an der Impulsantwort
+train_0669.png,ablesbar an der Impulsantwort
+train_0670.png,Eigenschaften der
+train_0671.png,Eigenschaften der
+train_0672.png,Eigenschaften der
+train_0673.png,Eigenschaften der
+train_0674.png,Eigenschaften der
+train_0675.png,Eigenschaften der
+train_0676.png,Eigenschaften der
+train_0677.png,Eigenschaften der
+train_0678.png,Eigenschaften der
+train_0679.png,Eigenschaften der
+train_0680.png,Probleme durch
+train_0681.png,Probleme durch
+train_0682.png,Probleme durch
+train_0683.png,Probleme durch
+train_0684.png,Probleme durch
+train_0685.png,Probleme durch
+train_0686.png,Probleme durch
+train_0687.png,Probleme durch
+train_0688.png,Probleme durch
+train_0689.png,Probleme durch
+train_0690.png,Direkte
+train_0691.png,Direkte
+train_0692.png,Direkte
+train_0693.png,Direkte
+train_0694.png,Direkte
+train_0695.png,Direkte
+train_0696.png,Direkte
+train_0697.png,Direkte
+train_0698.png,Direkte
+train_0699.png,Direkte
+train_0700.png,Falls sich ein
+train_0701.png,Falls sich ein
+train_0702.png,Falls sich ein
+train_0703.png,Falls sich ein
+train_0704.png,Falls sich ein
+train_0705.png,Falls sich ein
+train_0706.png,Falls sich ein
+train_0707.png,Falls sich ein
+train_0708.png,Falls sich ein
+train_0709.png,Falls sich ein
+train_0710.png,Seminar
+train_0711.png,Seminar
+train_0712.png,Seminar
+train_0713.png,Seminar
+train_0714.png,Seminar
+train_0715.png,Seminar
+train_0716.png,Seminar
+train_0717.png,Seminar
+train_0718.png,Seminar
+train_0719.png,Seminar
+train_0720.png,idealer Filter
+train_0721.png,idealer Filter
+train_0722.png,idealer Filter
+train_0723.png,idealer Filter
+train_0724.png,idealer Filter
+train_0725.png,idealer Filter
+train_0726.png,idealer Filter
+train_0727.png,idealer Filter
+train_0728.png,idealer Filter
+train_0729.png,idealer Filter
+train_0730.png,somit
+train_0731.png,somit
+train_0732.png,somit
+train_0733.png,somit
+train_0734.png,somit
+train_0735.png,somit
+train_0736.png,somit
+train_0737.png,somit
+train_0738.png,somit
+train_0739.png,somit
+train_0740.png,in den
+train_0741.png,in den
+train_0742.png,in den
+train_0743.png,in den
+train_0744.png,in den
+train_0745.png,in den
+train_0746.png,in den
+train_0747.png,in den
+train_0748.png,in den
+train_0749.png,in den
+train_0750.png,charakterisierung
+train_0751.png,charakterisierung
+train_0752.png,charakterisierung
+train_0753.png,charakterisierung
+train_0754.png,charakterisierung
+train_0755.png,charakterisierung
+train_0756.png,charakterisierung
+train_0757.png,charakterisierung
+train_0758.png,charakterisierung
+train_0759.png,charakterisierung
+train_0760.png,Abtastkreisfrequenz
+train_0761.png,Abtastkreisfrequenz
+train_0762.png,Abtastkreisfrequenz
+train_0763.png,Abtastkreisfrequenz
+train_0764.png,Abtastkreisfrequenz
+train_0765.png,Abtastkreisfrequenz
+train_0766.png,Abtastkreisfrequenz
+train_0767.png,Abtastkreisfrequenz
+train_0768.png,Abtastkreisfrequenz
+train_0769.png,Abtastkreisfrequenz
+train_0770.png,-Methode
+train_0771.png,-Methode
+train_0772.png,-Methode
+train_0773.png,-Methode
+train_0774.png,-Methode
+train_0775.png,-Methode
+train_0776.png,-Methode
+train_0777.png,-Methode
+train_0778.png,-Methode
+train_0779.png,-Methode
+train_0780.png,Alternative Gleitkommazahlen
+train_0781.png,Alternative Gleitkommazahlen
+train_0782.png,Alternative Gleitkommazahlen
+train_0783.png,Alternative Gleitkommazahlen
+train_0784.png,Alternative Gleitkommazahlen
+train_0785.png,Alternative Gleitkommazahlen
+train_0786.png,Alternative Gleitkommazahlen
+train_0787.png,Alternative Gleitkommazahlen
+train_0788.png,Alternative Gleitkommazahlen
+train_0789.png,Alternative Gleitkommazahlen
+train_0790.png,ein diskretes
+train_0791.png,ein diskretes
+train_0792.png,ein diskretes
+train_0793.png,ein diskretes
+train_0794.png,ein diskretes
+train_0795.png,ein diskretes
+train_0796.png,ein diskretes
+train_0797.png,ein diskretes
+train_0798.png,ein diskretes
+train_0799.png,ein diskretes
+train_0800.png,entworfene Filter
+train_0801.png,entworfene Filter
+train_0802.png,entworfene Filter
+train_0803.png,entworfene Filter
+train_0804.png,entworfene Filter
+train_0805.png,entworfene Filter
+train_0806.png,entworfene Filter
+train_0807.png,entworfene Filter
+train_0808.png,entworfene Filter
+train_0809.png,entworfene Filter
+train_0810.png,Länge
+train_0811.png,Länge
+train_0812.png,Länge
+train_0813.png,Länge
+train_0814.png,Länge
+train_0815.png,Länge
+train_0816.png,Länge
+train_0817.png,Länge
+train_0818.png,Länge
+train_0819.png,Länge
+train_0820.png,Berechnung
+train_0821.png,Berechnung
+train_0822.png,Berechnung
+train_0823.png,Berechnung
+train_0824.png,Berechnung
+train_0825.png,Berechnung
+train_0826.png,Berechnung
+train_0827.png,Berechnung
+train_0828.png,Berechnung
+train_0829.png,Berechnung
+train_0830.png,Differenzen Gleichung
+train_0831.png,Differenzen Gleichung
+train_0832.png,Differenzen Gleichung
+train_0833.png,Differenzen Gleichung
+train_0834.png,Differenzen Gleichung
+train_0835.png,Differenzen Gleichung
+train_0836.png,Differenzen Gleichung
+train_0837.png,Differenzen Gleichung
+train_0838.png,Differenzen Gleichung
+train_0839.png,Differenzen Gleichung
+train_0840.png,mit Nullen
+train_0841.png,mit Nullen
+train_0842.png,mit Nullen
+train_0843.png,mit Nullen
+train_0844.png,mit Nullen
+train_0845.png,mit Nullen
+train_0846.png,mit Nullen
+train_0847.png,mit Nullen
+train_0848.png,mit Nullen
+train_0849.png,mit Nullen
+train_0850.png,Tiefpass
+train_0851.png,Tiefpass
+train_0852.png,Tiefpass
+train_0853.png,Tiefpass
+train_0854.png,Tiefpass
+train_0855.png,Tiefpass
+train_0856.png,Tiefpass
+train_0857.png,Tiefpass
+train_0858.png,Tiefpass
+train_0859.png,Tiefpass
+train_0860.png,wird mit
+train_0861.png,wird mit
+train_0862.png,wird mit
+train_0863.png,wird mit
+train_0864.png,wird mit
+train_0865.png,wird mit
+train_0866.png,wird mit
+train_0867.png,wird mit
+train_0868.png,wird mit
+train_0869.png,wird mit
+train_0870.png,grauwerte
+train_0871.png,grauwerte
+train_0872.png,grauwerte
+train_0873.png,grauwerte
+train_0874.png,grauwerte
+train_0875.png,grauwerte
+train_0876.png,grauwerte
+train_0877.png,grauwerte
+train_0878.png,grauwerte
+train_0879.png,grauwerte
+train_0880.png,h idealer
+train_0881.png,h idealer
+train_0882.png,h idealer
+train_0883.png,h idealer
+train_0884.png,h idealer
+train_0885.png,h idealer
+train_0886.png,h idealer
+train_0887.png,h idealer
+train_0888.png,h idealer
+train_0889.png,h idealer
+train_0890.png,darstellen lässt
+train_0891.png,darstellen lässt
+train_0892.png,darstellen lässt
+train_0893.png,darstellen lässt
+train_0894.png,darstellen lässt
+train_0895.png,darstellen lässt
+train_0896.png,darstellen lässt
+train_0897.png,darstellen lässt
+train_0898.png,darstellen lässt
+train_0899.png,darstellen lässt
+train_0900.png,Werte entnommen
+train_0901.png,Werte entnommen
+train_0902.png,Werte entnommen
+train_0903.png,Werte entnommen
+train_0904.png,Werte entnommen
+train_0905.png,Werte entnommen
+train_0906.png,Werte entnommen
+train_0907.png,Werte entnommen
+train_0908.png,Werte entnommen
+train_0909.png,Werte entnommen
+train_0910.png,Folgen gilt
+train_0911.png,Folgen gilt
+train_0912.png,Folgen gilt
+train_0913.png,Folgen gilt
+train_0914.png,Folgen gilt
+train_0915.png,Folgen gilt
+train_0916.png,Folgen gilt
+train_0917.png,Folgen gilt
+train_0918.png,Folgen gilt
+train_0919.png,Folgen gilt
+train_0920.png,Die
+train_0921.png,Die
+train_0922.png,Die
+train_0923.png,Die
+train_0924.png,Die
+train_0925.png,Die
+train_0926.png,Die
+train_0927.png,Die
+train_0928.png,Die
+train_0929.png,Die
+train_0930.png,Realiserungsvarianten
+train_0931.png,Realiserungsvarianten
+train_0932.png,Realiserungsvarianten
+train_0933.png,Realiserungsvarianten
+train_0934.png,Realiserungsvarianten
+train_0935.png,Realiserungsvarianten
+train_0936.png,Realiserungsvarianten
+train_0937.png,Realiserungsvarianten
+train_0938.png,Realiserungsvarianten
+train_0939.png,Realiserungsvarianten
+train_0940.png,gefiltert
+train_0941.png,gefiltert
+train_0942.png,gefiltert
+train_0943.png,gefiltert
+train_0944.png,gefiltert
+train_0945.png,gefiltert
+train_0946.png,gefiltert
+train_0947.png,gefiltert
+train_0948.png,gefiltert
+train_0949.png,gefiltert
+train_0950.png,schnelle
+train_0951.png,schnelle
+train_0952.png,schnelle
+train_0953.png,schnelle
+train_0954.png,schnelle
+train_0955.png,schnelle
+train_0956.png,schnelle
+train_0957.png,schnelle
+train_0958.png,schnelle
+train_0959.png,schnelle
+train_0960.png,nutzen
+train_0961.png,nutzen
+train_0962.png,nutzen
+train_0963.png,nutzen
+train_0964.png,nutzen
+train_0965.png,nutzen
+train_0966.png,nutzen
+train_0967.png,nutzen
+train_0968.png,nutzen
+train_0969.png,nutzen
+train_0970.png,Phasengang
+train_0971.png,Phasengang
+train_0972.png,Phasengang
+train_0973.png,Phasengang
+train_0974.png,Phasengang
+train_0975.png,Phasengang
+train_0976.png,Phasengang
+train_0977.png,Phasengang
+train_0978.png,Phasengang
+train_0979.png,Phasengang
+train_0980.png,Eine Folge
+train_0981.png,Eine Folge
+train_0982.png,Eine Folge
+train_0983.png,Eine Folge
+train_0984.png,Eine Folge
+train_0985.png,Eine Folge
+train_0986.png,Eine Folge
+train_0987.png,Eine Folge
+train_0988.png,Eine Folge
+train_0989.png,Eine Folge
+train_0990.png,gebraucht Ebenso
+train_0991.png,gebraucht Ebenso
+train_0992.png,gebraucht Ebenso
+train_0993.png,gebraucht Ebenso
+train_0994.png,gebraucht Ebenso
+train_0995.png,gebraucht Ebenso
+train_0996.png,gebraucht Ebenso
+train_0997.png,gebraucht Ebenso
+train_0998.png,gebraucht Ebenso
+train_0999.png,gebraucht Ebenso
