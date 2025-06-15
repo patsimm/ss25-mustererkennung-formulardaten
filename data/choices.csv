@@ -1,0 +1,49 @@
+section_index,field_index,label
+0,10,Krankenhaus
+0,10,Altenheim
+0,10,Wohnort
+0,11,natürlich
+0,11,ungeklärt
+0,13,ledig
+0,13,verheiratet
+0,13,verwitwet
+0,14,geschieden
+0,14,eingetragene Partnerschaft
+0,15,nein
+0,15,ja
+0,16,Antrag
+3,0,Erdbestattung
+3,0,Feuerbestattung
+3,0,Seebestattung
+3,3,Kreuzträger
+3,3,Organist
+3,4,Normallage
+3,4,Tieferlage
+3,4,links
+3,4,rechts
+3,7,Grabstein vorh.
+3,7,Urne / Schacht
+3,7,Grabplatte vorhanden
+3,8,Neuerwerb
+3,8,Grabstein/ Info Steinmetz
+3,9,Friede
+3,10,ja
+3,10,nein
+4,13,Anonym
+4,13,ja
+4,13,nein
+5,0,Post
+5,0,E-mail
+5,1,SEPA Mandat
+5,1,Überweisung
+5,1,Versicherung
+5,4,Anzahlung
+6,0,Personalausweis
+6,0,Reisepass
+6,0,Geburtsurkunde
+6,1,Familienbuch
+6,1,Heiratsurkunde
+6,1,Sterbeurkunde Ehepartner
+6,2,Scheidungsurteil
+6,2,Versichertenkarte
+6,2,Versicherungspolice

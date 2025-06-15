@@ -1,4 +1,4 @@
-group_index,group,field,field_index
+section_index,section,field,field_index
 0,Verstorbenendaten,Titel(Name),0
 0,Verstorbenendaten,Vorname,1
 0,Verstorbenendaten,Geburtsname,2
